@@ -1,0 +1,361 @@
+{
+  "9000000000000000001": {
+    "1": [
+      {
+        "status": "timeout",
+        "evidence": "Synthetic timeout"
+      },
+      {
+        "items": [
+          {
+            "cid": "9100000000000000001",
+            "text": "كم سعر الكيلو؟",
+            "createTimeISO": "2026-10-29T12:00:00+03:00",
+            "repliesToId": null,
+            "videoWebUrl": "https://www.tiktok.com/@fixture_oud_1/video/9000000000000000001"
+          },
+          {
+            "cid": "9200000000000000001",
+            "text": "١٢٠٠ ريال سعودي للكيلو",
+            "createTimeISO": "2026-10-30T12:00:00+03:00",
+            "repliesToId": "9100000000000000001",
+            "videoWebUrl": "https://www.tiktok.com/@fixture_oud_1/video/9000000000000000001",
+            "uniqueId": "fixture_oud_1"
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "items": [
+          {
+            "cid": "9100000000000000001",
+            "text": "كم سعر الكيلو؟",
+            "createTimeISO": "2026-10-29T12:00:00+03:00",
+            "repliesToId": null,
+            "videoWebUrl": "https://www.tiktok.com/@fixture_oud_1/video/9000000000000000001"
+          },
+          {
+            "cid": "9200000000000000001",
+            "text": "١٢٠٠ ريال سعودي للكيلو",
+            "createTimeISO": "2026-10-30T12:00:00+03:00",
+            "repliesToId": "9100000000000000001",
+            "videoWebUrl": "https://www.tiktok.com/@fixture_oud_1/video/9000000000000000001",
+            "uniqueId": "fixture_oud_1"
+          },
+          {
+            "cid": "9300000000000000001",
+            "text": "فيه عينة؟",
+            "createTimeISO": "2026-11-02T12:00:00+03:00",
+            "repliesToId": null,
+            "videoWebUrl": "https://www.tiktok.com/@fixture_oud_1/video/9000000000000000001"
+          },
+          {
+            "cid": "9300000000000000002",
+            "text": "كم سعر الكيلو؟",
+            "createTimeISO": "2026-10-30T12:00:00+03:00",
+            "repliesToId": null,
+            "videoWebUrl": "https://www.tiktok.com/@fixture_oud_1/video/9000000000000000001"
+          },
+          {
+            "cid": "9300000000000000003",
+            "text": "أقل كمية للطلب؟",
+            "createTimeISO": null,
+            "repliesToId": null,
+            "videoWebUrl": "https://www.tiktok.com/@fixture_oud_1/video/9000000000000000001"
+          }
+        ]
+      }
+    ]
+  },
+  "9000000000000000002": {
+    "1": [
+      {
+        "items": [
+          {
+            "cid": "9100000000000000002",
+            "text": "فيه جملة؟",
+            "createTimeISO": "2026-10-29T12:00:00+03:00",
+            "repliesToId": null,
+            "videoWebUrl": "https://www.tiktok.com/@fixture_oud_2/video/9000000000000000002"
+          },
+          {
+            "error": "Synthetic broken row"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "cid": "9100000000000000002",
+            "text": "فيه جملة؟",
+            "createTimeISO": "2026-10-29T12:00:00+03:00",
+            "repliesToId": null,
+            "videoWebUrl": "https://www.tiktok.com/@fixture_oud_2/video/9000000000000000002"
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "items": [
+          {
+            "cid": "9100000000000000002",
+            "text": "فيه جملة؟",
+            "createTimeISO": "2026-10-29T12:00:00+03:00",
+            "repliesToId": null,
+            "videoWebUrl": "https://www.tiktok.com/@fixture_oud_2/video/9000000000000000002"
+          },
+          {
+            "cid": "9300000000000000004",
+            "text": "فيه شحن إلى الرياض؟",
+            "createTimeISO": "2026-11-04T12:00:00+03:00",
+            "repliesToId": null,
+            "videoWebUrl": "https://www.tiktok.com/@fixture_oud_2/video/9000000000000000002"
+          }
+        ]
+      }
+    ]
+  },
+  "9000000000000000003": {
+    "1": [
+      {
+        "items": []
+      },
+      {
+        "items": [
+          {
+            "cid": "9100000000000000003",
+            "text": "فيه عينة؟",
+            "createTimeISO": "2026-10-29T12:00:00+03:00",
+            "repliesToId": null,
+            "videoWebUrl": "https://www.tiktok.com/@fixture_oud_3/video/9000000000000000003"
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "items": [
+          {
+            "cid": "9100000000000000003",
+            "text": "فيه عينة؟",
+            "createTimeISO": "2026-10-29T12:00:00+03:00",
+            "repliesToId": null,
+            "videoWebUrl": "https://www.tiktok.com/@fixture_oud_3/video/9000000000000000003"
+          },
+          {
+            "cid": "9300000000000000005",
+            "text": "فيه جملة؟",
+            "createTimeISO": "2026-11-04T12:00:01+03:00",
+            "repliesToId": null,
+            "videoWebUrl": "https://www.tiktok.com/@fixture_oud_3/video/9000000000000000003"
+          }
+        ]
+      }
+    ]
+  },
+  "9000000000000000004": {
+    "1": [
+      {
+        "items": [
+          {
+            "error": "Synthetic source error"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "cid": "9100000000000000004",
+            "text": "طبيعي أو محسن؟",
+            "createTimeISO": "2026-10-29T12:00:00+03:00",
+            "repliesToId": null,
+            "videoWebUrl": "https://www.tiktok.com/@fixture_oud_4/video/9000000000000000004"
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "items": [
+          {
+            "cid": "9100000000000000004",
+            "text": "طبيعي أو محسن؟",
+            "createTimeISO": "2026-10-29T12:00:00+03:00",
+            "repliesToId": null,
+            "videoWebUrl": "https://www.tiktok.com/@fixture_oud_4/video/9000000000000000004"
+          },
+          {
+            "cid": "9300000000000000006",
+            "text": "ما شاء الله",
+            "createTimeISO": "2026-11-03T12:00:00+03:00",
+            "repliesToId": null,
+            "videoWebUrl": "https://www.tiktok.com/@fixture_oud_4/video/9000000000000000004"
+          }
+        ]
+      }
+    ]
+  },
+  "9000000000000000005": {
+    "1": [
+      {
+        "items": [
+          {
+            "cid": "9100000000000000005",
+            "text": "كم السعر؟",
+            "createTimeISO": "2026-10-29T12:00:00+03:00",
+            "repliesToId": null,
+            "videoWebUrl": "https://www.tiktok.com/@fixture_oud_5/video/9000000000000000005"
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "items": [
+          {
+            "cid": "9100000000000000005",
+            "text": "كم السعر؟",
+            "createTimeISO": "2026-10-29T12:00:00+03:00",
+            "repliesToId": null,
+            "videoWebUrl": "https://www.tiktok.com/@fixture_oud_5/video/9000000000000000005"
+          }
+        ]
+      }
+    ]
+  },
+  "9000000000000000006": {
+    "1": [
+      {
+        "items": [
+          {
+            "cid": "9100000000000000006",
+            "text": "أقل كمية للطلب؟",
+            "createTimeISO": "2026-10-29T12:00:00+03:00",
+            "repliesToId": null,
+            "videoWebUrl": "https://www.tiktok.com/@fixture_oud_6/video/9000000000000000006"
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "items": [
+          {
+            "cid": "9100000000000000006",
+            "text": "أقل كمية للطلب؟",
+            "createTimeISO": "2026-10-29T12:00:00+03:00",
+            "repliesToId": null,
+            "videoWebUrl": "https://www.tiktok.com/@fixture_oud_6/video/9000000000000000006"
+          }
+        ]
+      }
+    ]
+  },
+  "9000000000000000007": {
+    "1": [
+      {
+        "items": [
+          {
+            "cid": "9100000000000000007",
+            "text": "من وين خشب العود؟",
+            "createTimeISO": "2026-10-29T12:00:00+03:00",
+            "repliesToId": null,
+            "videoWebUrl": "https://www.tiktok.com/@fixture_oud_7/video/9000000000000000007"
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "items": [
+          {
+            "cid": "9100000000000000007",
+            "text": "من وين خشب العود؟",
+            "createTimeISO": "2026-10-29T12:00:00+03:00",
+            "repliesToId": null,
+            "videoWebUrl": "https://www.tiktok.com/@fixture_oud_7/video/9000000000000000007"
+          }
+        ]
+      }
+    ]
+  },
+  "9000000000000000008": {
+    "1": [
+      {
+        "items": [
+          {
+            "cid": "9100000000000000008",
+            "text": "كيف الدخان وقت حرق العود؟",
+            "createTimeISO": "2026-10-29T12:00:00+03:00",
+            "repliesToId": null,
+            "videoWebUrl": "https://www.tiktok.com/@fixture_oud_8/video/9000000000000000008"
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "items": [
+          {
+            "cid": "9100000000000000008",
+            "text": "كيف الدخان وقت حرق العود؟",
+            "createTimeISO": "2026-10-29T12:00:00+03:00",
+            "repliesToId": null,
+            "videoWebUrl": "https://www.tiktok.com/@fixture_oud_8/video/9000000000000000008"
+          }
+        ]
+      }
+    ]
+  },
+  "9000000000000000009": {
+    "1": [
+      {
+        "items": [
+          {
+            "cid": "9100000000000000009",
+            "text": "فيه توصيل إلى دبي؟",
+            "createTimeISO": "2026-10-29T12:00:00+03:00",
+            "repliesToId": null,
+            "videoWebUrl": "https://www.tiktok.com/@fixture_oud_9/video/9000000000000000009"
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "items": [
+          {
+            "cid": "9100000000000000009",
+            "text": "فيه توصيل إلى دبي؟",
+            "createTimeISO": "2026-10-29T12:00:00+03:00",
+            "repliesToId": null,
+            "videoWebUrl": "https://www.tiktok.com/@fixture_oud_9/video/9000000000000000009"
+          }
+        ]
+      }
+    ]
+  },
+  "9000000000000000010": {
+    "1": [
+      {
+        "items": [
+          {
+            "cid": "9100000000000000010",
+            "text": "هل عندكم توريد للمحلات؟",
+            "createTimeISO": "2026-10-29T12:00:00+03:00",
+            "repliesToId": null,
+            "videoWebUrl": "https://www.tiktok.com/@fixture_oud_10/video/9000000000000000010"
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "status": "empty_confirmed",
+        "evidence": "Synthetic manual observation at the end of the window"
+      }
+    ]
+  }
+}

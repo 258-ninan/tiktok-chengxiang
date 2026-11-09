@@ -1,0 +1,14 @@
+__pycache__/
+*.sqlite*
+.env
+.env.*
+key.txt
+.apify-token.dpapi
+seeds.local.*
+annotations.local.csv
+data/
+out/
+.venv/
+local-browser/
+.local-run.lock
+chrome_extension/local_config.json

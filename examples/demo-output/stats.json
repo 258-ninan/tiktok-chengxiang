@@ -1,0 +1,60 @@
+{
+  "videos": 10,
+  "video_states": {
+    "archived": 10
+  },
+  "attempts_by_round": {
+    "1": {
+      "timeout": 1,
+      "partial": 1,
+      "empty_unverified": 1,
+      "error": 1,
+      "success": 10
+    },
+    "2": {
+      "success": 9,
+      "empty_confirmed": 1
+    }
+  },
+  "attempt_sources": {
+    "json": 24
+  },
+  "comments": 17,
+  "replies": 1,
+  "round2_new_comments": 6,
+  "round2_procurement_comments": 5,
+  "round2_breakdown": [
+    {
+      "sample_group": "raw",
+      "timing": "after_window_observed",
+      "new_comments": 1,
+      "procurement_comments": 1,
+      "procurement_videos": 1,
+      "procurement_accounts": 1
+    },
+    {
+      "sample_group": "raw",
+      "timing": "older_not_seen",
+      "new_comments": 1,
+      "procurement_comments": 1,
+      "procurement_videos": 1,
+      "procurement_accounts": 1
+    },
+    {
+      "sample_group": "raw",
+      "timing": "time_unknown",
+      "new_comments": 1,
+      "procurement_comments": 1,
+      "procurement_videos": 1,
+      "procurement_accounts": 1
+    },
+    {
+      "sample_group": "raw",
+      "timing": "window_new_observed",
+      "new_comments": 3,
+      "procurement_comments": 2,
+      "procurement_videos": 2,
+      "procurement_accounts": 2
+    }
+  ]
+}

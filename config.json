@@ -1,0 +1,10 @@
+{
+  "window_hours": 72,
+  "top_level_limit": 30,
+  "replies_per_comment": 1,
+  "total_limit": 35,
+  "max_attempts": 3,
+  "retry_minutes": 15,
+  "actor_timeout_seconds": 120,
+  "max_run_usd": 0.50
+}

@@ -1,0 +1,15 @@
+﻿sample_group,market_signal,material,question,comments,videos,accounts
+raw,merchant=AE;delivery=SA,crumbs,配送,1,1,1
+raw,merchant=AE;delivery=unknown,chips,天然或处理料,1,1,1
+raw,merchant=AE;delivery=unknown,chips,明确批发或供货,1,1,1
+raw,merchant=AE;delivery=unknown,crumbs,明确批发或供货,1,1,1
+raw,merchant=AE;delivery=unknown,crumbs,燃烧表现,1,1,1
+raw,merchant=SA;delivery=unknown,chips,产地,1,1,1
+raw,merchant=SA;delivery=unknown,chips,公斤报价,2,1,1
+raw,merchant=SA;delivery=unknown,chips,样品,1,1,1
+raw,merchant=SA;delivery=unknown,chips,起订量,1,1,1
+raw,merchant=SA;delivery=unknown,crumbs,零售询价,1,1,1
+raw,merchant=unknown;delivery=AE,chunks,配送,1,1,1
+raw,merchant=unknown;delivery=unknown,chunks,明确批发或供货,1,1,1
+raw,merchant=unknown;delivery=unknown,chunks,样品,1,1,1
+raw,merchant=unknown;delivery=unknown,chunks,起订量,1,1,1

@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Chengxian Local Oud Research",
+  "version": "0.3.4",
+  "description": "Collect raw oud research samples into a local SQLite database.",
+  "permissions": ["alarms", "storage", "webRequest"],
+  "host_permissions": ["https://www.tiktok.com/*", "http://127.0.0.1:8766/*"],
+  "background": {"service_worker": "background.js"},
+  "action": {"default_title": "Connect to local oud collector"},
+  "content_scripts": [
+    {"matches": ["https://www.tiktok.com/*"], "js": ["page_hook.js"], "run_at": "document_start", "world": "MAIN"},
+    {"matches": ["https://www.tiktok.com/*"], "js": ["harvest.js"], "run_at": "document_start"}
+  ]
+}

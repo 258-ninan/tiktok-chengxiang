@@ -1,0 +1,4 @@
+scenario,material,grade,destination,currency,order_kg,sale_per_kg,purchase_per_kg,loss_percent,packaging_per_order,freight_per_order,import_charges_per_order,payment_percent,acquisition_per_order,other_per_order,fixed_cost_allocation_per_order,evidence
+chips_order,chips,,,,,,,,,,,,,,,
+crumbs_order,crumbs,,,,,,,,,,,,,,,
+chunks_order,chunks,,,,,,,,,,,,,,,

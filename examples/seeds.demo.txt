@@ -1,0 +1,2 @@
+# Synthetic format example. Replace the URL before live use.
+https://www.tiktok.com/@fixture_oud_1/video/9000000000000000001

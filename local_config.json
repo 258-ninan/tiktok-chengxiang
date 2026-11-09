@@ -1,0 +1,14 @@
+{
+  "channel": "chrome",
+  "scheduled_run_minutes": 1440,
+  "scheduled_retry_minutes": 15,
+  "max_run_minutes": 30,
+  "max_video_tasks": 40,
+  "max_searches": 12,
+  "search_scrolls": 20,
+  "max_discovery_scrolls": 80,
+  "video_timeout_seconds": 60,
+  "profile_checks": 6,
+  "metadata_checks": 12,
+  "history_floor": "2026-01-01T00:00:00+04:00"
+}
